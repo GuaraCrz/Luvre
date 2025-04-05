@@ -1,6 +1,6 @@
 
     
-pós:
-FOto do fundo transparencia
-* Foco total na arte, sugestoes  abaixo
+Pagina galeria:
+    *adicionar fotos recomendadas(algo como grid em baixo)
+    *Barra que segue
   
