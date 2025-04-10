@@ -3,4 +3,9 @@
 Pagina galeria:
     *adicionar fotos recomendadas(algo como grid em baixo)
     *Barra que segue
+
+
+Correçoes:
+* diminuir tamanho da barra
+* claridade dos icones da barra superior
   
